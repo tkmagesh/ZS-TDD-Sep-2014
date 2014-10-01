@@ -1,0 +1,7 @@
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\MathLib\MathLib.Tests\obj\Debug\MathLib.Tests.csprojResolveAssemblyReference.cache
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\MathLib\MathLib.Tests\bin\Debug\MathLib.Tests.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\MathLib\MathLib.Tests\bin\Debug\MathLib.Tests.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\MathLib\MathLib.Tests\bin\Debug\MathLib.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\MathLib\MathLib.Tests\bin\Debug\MathLib.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\MathLib\MathLib.Tests\obj\Debug\MathLib.Tests.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\MathLib\MathLib.Tests\obj\Debug\MathLib.Tests.pdb

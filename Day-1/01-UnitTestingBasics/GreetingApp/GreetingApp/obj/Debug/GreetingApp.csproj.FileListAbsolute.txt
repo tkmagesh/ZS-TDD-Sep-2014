@@ -1,0 +1,5 @@
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingApp\bin\Debug\GreetingApp.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csprojResolveAssemblyReference.cache
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingApp\obj\Debug\GreetingApp.exe
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingApp\obj\Debug\GreetingApp.pdb

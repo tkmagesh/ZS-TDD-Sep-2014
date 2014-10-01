@@ -1,0 +1,9 @@
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingAppTests\obj\Debug\GreetingAppTests.csprojResolveAssemblyReference.cache
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingAppTests\bin\Debug\GreetingAppTests.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingAppTests\bin\Debug\GreetingAppTests.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingAppTests\bin\Debug\GreetingApp.exe
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingAppTests\bin\Debug\GreetingApp.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingAppTests\obj\Debug\GreetingAppTests.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingAppTests\obj\Debug\GreetingAppTests.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingAppTests\bin\Debug\Moq.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\GreetingApp\GreetingAppTests\bin\Debug\Moq.xml

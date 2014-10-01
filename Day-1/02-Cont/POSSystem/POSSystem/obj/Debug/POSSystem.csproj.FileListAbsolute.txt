@@ -1,0 +1,5 @@
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem\bin\Debug\POSSystem.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem\bin\Debug\POSSystem.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem\obj\Debug\POSSystem.csprojResolveAssemblyReference.cache
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem\obj\Debug\POSSystem.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem\obj\Debug\POSSystem.pdb

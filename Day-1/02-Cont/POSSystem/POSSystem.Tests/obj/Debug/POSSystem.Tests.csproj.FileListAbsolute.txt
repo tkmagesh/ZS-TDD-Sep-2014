@@ -1,0 +1,9 @@
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem.Tests\bin\Debug\POSSystem.Tests.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem.Tests\bin\Debug\POSSystem.Tests.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem.Tests\bin\Debug\POSSystem.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem.Tests\bin\Debug\POSSystem.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem.Tests\obj\Debug\POSSystem.Tests.csprojResolveAssemblyReference.cache
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem.Tests\obj\Debug\POSSystem.Tests.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem.Tests\obj\Debug\POSSystem.Tests.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem.Tests\bin\Debug\Moq.dll
+D:\Training\ZS-TDD-Sep-2014\Day-1\02-Cont\POSSystem\POSSystem.Tests\bin\Debug\Moq.xml

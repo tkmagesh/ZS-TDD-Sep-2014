@@ -1,0 +1,5 @@
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\ProductsManagementApp\ProductsManagementApp\obj\Debug\ProductsManagementApp.csprojResolveAssemblyReference.cache
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\ProductsManagementApp\ProductsManagementApp\bin\Debug\ProductsManagementApp.exe
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\ProductsManagementApp\ProductsManagementApp\bin\Debug\ProductsManagementApp.pdb
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\ProductsManagementApp\ProductsManagementApp\obj\Debug\ProductsManagementApp.exe
+D:\Training\ZS-TDD-Sep-2014\Day-1\01-UnitTestingBasics\ProductsManagementApp\ProductsManagementApp\obj\Debug\ProductsManagementApp.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingApp", "GreetingApp\GreetingApp.csproj", "{583E8EB7-61EA-4007-A64C-1AA5E922600E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingAppTests", "GreetingAppTests\GreetingAppTests.csproj", "{5AF1B1BB-93D3-4AE5-9995-AB9CDDC7ED99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583E8EB7-61EA-4007-A64C-1AA5E922600E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583E8EB7-61EA-4007-A64C-1AA5E922600E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583E8EB7-61EA-4007-A64C-1AA5E922600E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583E8EB7-61EA-4007-A64C-1AA5E922600E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF1B1BB-93D3-4AE5-9995-AB9CDDC7ED99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF1B1BB-93D3-4AE5-9995-AB9CDDC7ED99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF1B1BB-93D3-4AE5-9995-AB9CDDC7ED99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF1B1BB-93D3-4AE5-9995-AB9CDDC7ED99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
